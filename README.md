@@ -4,6 +4,11 @@ This project is an automation testing framework built using **Python**, **Pytest
 
 The goal was to create a clean, easy-to-use test automation setup that’s flexible and scalable.
 
+Here are my Test IDs :-
+1. test_valid_login :- 16L22-FNHNC-SLJHI-KSPH3
+2. test_invalid_login :- RJSSW-HVCB2-OIEMB-ZKQW7
+3. test_handle_all_alerts :- KE9MN-AZA07-5PORH-NT94S
+
 ---
 
 ## 🧠 Thought Process
