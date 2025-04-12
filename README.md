@@ -46,3 +46,34 @@ LT_ACCESS_KEY=your_lambdatest_access_key
 
 Using pytest commands 
 for example "pytest tests/test_alerts.py" for running test_alerts.py file for js alerts python run . 
+
+
+🧪 Example Test Cases
+
+✅ Login functionality
+
+✅ Handling JavaScript alerts
+
+✅ Cloud-based execution setup
+
+Each test uses Page Object Model to keep things clean and organized.
+
+
+🔮 Future Improvements
+Add more test cases
+
+Add parallel execution
+
+Integrate with CI/CD (GitHub Actions, Jenkins)
+
+Use data-driven testing (CSV, Excel, etc.)
+
+
+📘 What I Learned
+How to structure a clean and scalable test framework
+
+How to run tests on the cloud with LambdaTest
+
+How to generate and understand Allure reports
+
+Best practices in test automation using Pytest and POM
