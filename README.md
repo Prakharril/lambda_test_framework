@@ -42,43 +42,43 @@ lambda_test_framework/ ├── pages/ # Page classes for each screen (login, a
 
 ---
 
-## You can give your credentials and run tests in the .env file 
+## 🔐 You can give your credentials and run tests in the `.env` file
 
-LT_USERNAME=your_lambdatest_username
+LT_USERNAME=your_lambdatest_username  
 LT_ACCESS_KEY=your_lambdatest_access_key
 
-## How you can run test 
+---
 
-Using pytest commands 
-for example "pytest tests/test_alerts.py" for running test_alerts.py file for js alerts python run . 
+## 🚀 How you can run tests
 
+🧪 Use `pytest` commands  
+📄 For example:  
+`pytest tests/test_alerts.py` ➡️ runs the JS alerts test file
 
-## Example Test Cases
+---
 
-✅ Login functionality
+## ✅ Example Test Cases
 
-✅ Handling JavaScript alerts
+- 🔐 Login functionality  
+- ⚠️ Handling JavaScript alerts  
+- ☁️ Cloud-based execution setup  
 
-✅ Cloud-based execution setup
+🧱 Each test uses **Page Object Model (POM)** to keep things clean and organized.
 
-Each test uses Page Object Model to keep things clean and organized.
+---
 
+## 🔮 Future Improvements
 
-## Future Improvements
-Add more test cases
+- ➕ Add more test cases  
+- 🧵 Add parallel execution  
+- 🔁 Integrate with CI/CD (GitHub Actions, Jenkins)  
+- 📊 Use data-driven testing (CSV, Excel, etc.)
 
-Add parallel execution
+---
 
-Integrate with CI/CD (GitHub Actions, Jenkins)
+## 📘 What I Learned
 
-Use data-driven testing (CSV, Excel, etc.)
-
-
-## What I Learned
-How to structure a clean and scalable test framework
-
-How to run tests on the cloud with LambdaTest
-
-How to generate and understand Allure reports
-
-Best practices in test automation using Pytest and POM
+- 🧼 Structuring a clean and scalable test framework  
+- ☁️ Running tests on the cloud with **LambdaTest**  
+- 📈 Generating and understanding **Allure** reports  
+- 🧠 Best practices in test automation using **Pytest** and **POM**
